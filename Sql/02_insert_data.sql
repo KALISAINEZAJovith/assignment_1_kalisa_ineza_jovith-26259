@@ -32,6 +32,9 @@ INSERT INTO customers VALUES
 INSERT INTO customers VALUES
 (8, 'Henry Tuyisenge', 'henry@gmail.com', 'Musanze');
 
+-- ============================================================
+-- PRODUCTS
+-- ============================================================
 
 INSERT INTO products VALUES
 (1, 'Rice 5kg', 'Groceries', 8500);
